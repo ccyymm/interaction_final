@@ -1,5 +1,8 @@
 ## 期末项目主题：探究影响各地个体就业的因素及其相关关系
 
+## github url: https://ccyymm.github.io/interaction_final/
+## pythonanywhere url: https://sandman999.pythonanywhere.com/home
+
 ### 数据来源：
 * 国家数据
 
